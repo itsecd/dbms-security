@@ -73,27 +73,27 @@
     <th>Задания</th>
   </tr>
   <tr>
-    <td><a href="">ЛР1. MongoDB. Работа с данными</a></td>
+    <td><a href="https://github.com/itsecd/dbms-security/blob/main/labs/ЛР1. MongoDB. Знакомство с MongoDB.pdf">ЛР1. MongoDB. Работа с данными</a></td>
   </tr>
   <tr>
-    <td><a href="">ЛР2. MongoDB. Аутентификация. Управление привилегиями</a></td>
+    <td><a href="https://github.com/itsecd/dbms-security/blob/main/labs/%D0%9B%D0%A02.%20MongoDB.%20%D0%90%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8%D0%B2%D0%B8%D0%BB%D0%B5%D0%B3%D0%B8%D1%8F%D0%BC%D0%B8.pdf">ЛР2. MongoDB. Аутентификация. Управление привилегиями</a></td>
   </tr>
   <tr>
-    <td><a href="">ЛР3. PostgreSQL. Управление привилегиями</a></td>
+    <td><a href="https://github.com/itsecd/dbms-security/blob/main/labs/%D0%9B%D0%A03.%20PostgreSQL.%20%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D0%B2%D0%B8%D0%BB%D0%B5%D0%B3%D0%B8%D1%8F%D0%BC%D0%B8.pdf">ЛР3. PostgreSQL. Управление привилегиями</a></td>
   </tr>
   <tr>
-    <td><a href="">ЛР4. PostgreSQL. Резервное копирование. Репликация</a></td>
+    <td><a href="https://github.com/itsecd/dbms-security/blob/main/labs/%D0%9B%D0%A04.%20PostgreSQL.%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%A0%D0%B5%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.pdf">ЛР4. PostgreSQL. Резервное копирование. Репликация</a></td>
   </tr>
   <tr>
-    <td><a href="">ЛР5. PostgreSQL. Секционирование</a></td>
+    <td><a href="https://github.com/itsecd/dbms-security/blob/main/labs/%D0%9B%D0%A05.%20PostgreSQL.%20%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf">ЛР5. PostgreSQL. Секционирование</a></td>
   </tr>
   <tr>
-    <td><a href="">ЛР6. MongoDB. Репликация. Сегментирование</a></td>
+    <td><a href="https://github.com/itsecd/dbms-security/blob/main/labs/%D0%9B%D0%A06.%20MongoDB.%20%D0%A0%D0%B5%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf">ЛР6. MongoDB. Репликация. Сегментирование</a></td>
   </tr>
   <tr>
-    <td><a href="">ЛР7. Мониторинг</a></td>
+    <td><a href="https://github.com/itsecd/dbms-security/blob/main/labs/%D0%9B%D0%A07.%20%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3.pdf">ЛР7. Мониторинг</a></td>
   </tr>
   <tr>
-    <td><a href="">ЛР8. SQL-Инъекции</a></td>
+    <td><a href="https://github.com/itsecd/dbms-security/blob/main/labs/%D0%9B%D0%A08.%20SQL-%D0%B8%D0%BD%D1%8A%D0%B5%D0%BA%D1%86%D0%B8%D0%B8.pdf">ЛР8. SQL-Инъекции</a></td>
   </tr>
 </table>
