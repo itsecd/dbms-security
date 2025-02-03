@@ -4,9 +4,13 @@
 - [Лекции](#лекции)
 - [Лабораторные работы](#лабораторные-работы)
 
+## Успеваемость
+<a href="https://docs.google.com/spreadsheets/d/1BN5VbdhXxcWoBXTmFtUamq5V6075q8_-59-Odlg8yd0">Успеваемость</a>
+
 ## Лекции
 
 ### <a href="https://www.youtube.com/playlist?list=PLbEnDSdxHQAtH3RHhnxHhlxzb4ko8HZep">Курс лекций</a>
+### <a href="https://github.com/itsecd/dbms-security/blob/main/books/%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%BE%D0%B2%20%D0%90.%D0%90.%2C%20%D0%AE%D0%BC%D0%B0%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%90.%D0%A1.%20%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%20%D0%B1%D0%B0%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf">Учебное пособие по курсу БСБД</a>
 <table>
   <tr>
     <th>Видео</th>
@@ -76,7 +80,7 @@
     <td><a href="https://github.com/itsecd/dbms-security/blob/main/labs/ЛР1. MongoDB. Знакомство с MongoDB.pdf">ЛР1. MongoDB. Работа с данными</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/itsecd/dbms-security/blob/main/labs/%D0%9B%D0%A02.%20MongoDB.%20%D0%90%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8%D0%B2%D0%B8%D0%BB%D0%B5%D0%B3%D0%B8%D1%8F%D0%BC%D0%B8.pdf">ЛР2. MongoDB. Аутентификация. Управление привилегиями</a></td>
+    <td><a href="https://github.com/itsecd/dbms-security/blob/main/labs/%D0%9B%D0%A02.%20MongoDB.%20%D0%90%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D0%B2%D0%B8%D0%BB%D0%B5%D0%B3%D0%B8%D1%8F%D0%BC%D0%B8.pdf">ЛР2. MongoDB. Аутентификация. Управление привилегиями</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/itsecd/dbms-security/blob/main/labs/%D0%9B%D0%A03.%20PostgreSQL.%20%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D0%B2%D0%B8%D0%BB%D0%B5%D0%B3%D0%B8%D1%8F%D0%BC%D0%B8.pdf">ЛР3. PostgreSQL. Управление привилегиями</a></td>
