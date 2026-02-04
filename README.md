@@ -95,7 +95,7 @@
     <td><a href="https://github.com/itsecd/dbms-security/blob/main/labs/%D0%9B%D0%A06.%20MongoDB.%20%D0%A0%D0%B5%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf">ЛР6. MongoDB. Репликация. Сегментирование</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/itsecd/dbms-security/blob/main/labs/%D0%9B%D0%A07.%20%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3.pdf">ЛР7. Мониторинг</a></td>
+    <td><a href="https://github.com/itsecd/dbms-security/blob/main/labs/%D0%9B%D0%A07.%20%D0%A8%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3.pdf">ЛР7. Шифрование. Мониторинг</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/itsecd/dbms-security/blob/main/labs/%D0%9B%D0%A08.%20SQL-%D0%B8%D0%BD%D1%8A%D0%B5%D0%BA%D1%86%D0%B8%D0%B8.pdf">ЛР8. SQL-Инъекции</a></td>
